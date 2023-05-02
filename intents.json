@@ -1,0 +1,16 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["Hi", "Hello", "Hey"],
+    "responses": ["Hi", "How can I help"]
+    },
+    {"tag": "bye",
+    "patterns": ["bye", "cya"],
+    "responses": ["Bye!", "Until Next Time!"]
+    },
+    {"tag": "age",
+    "patterns": ["How old are you?", "Age?"],
+    "responses": ["I was created yesterday"]
+    }
+
+]
+}
